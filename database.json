@@ -1,0 +1,21 @@
+{
+  "clans": [
+    "Wick",
+    {
+      "guild": "1270928738313568367",
+      "icon": null,
+      "unicodeEmoji": null,
+      "id": "1274161070696824925",
+      "name": "Wick",
+      "color": 0,
+      "hoist": false,
+      "rawPosition": 1,
+      "permissions": "2248473465835073",
+      "managed": false,
+      "mentionable": false,
+      "tags": null,
+      "flags": 0,
+      "createdTimestamp": 1723854072022
+    }
+  ]
+}
